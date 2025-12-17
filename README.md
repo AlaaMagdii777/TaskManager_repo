@@ -4,13 +4,13 @@ A simple task management application built with React Native and TypeScript, sup
 
 ## Features
 
-- ✅ Add new tasks with a text input and "Add" button
-- ✅ Display all tasks in a list
-- ✅ Mark tasks as complete/incomplete by clicking on them (with visual indication)
-- ✅ Delete tasks using a delete button
-- ✅ Show a count of total tasks and completed tasks
-- ✅ Completed tasks have strikethrough style
-- ✅ Built with reusable components
+- Add new tasks with a text input and "Add" button
+- Display all tasks in a list
+- Mark tasks as complete/incomplete by clicking on them (with visual indication)
+- Delete tasks using a delete button
+- Show a count of total tasks and completed tasks
+- Completed tasks have strikethrough style
+- Built with reusable components
 
 ## Project Structure
 
@@ -105,12 +105,6 @@ sudo gem install cocoapods
 
 ### Android Issues
 
-**Build failed:**
-- Make sure you have Android SDK installed and configured
-- Check that `ANDROID_HOME` environment variable is set
-- Ensure you have accepted all Android licenses: `sdkmanager --licenses`
-- Try cleaning the build: `cd android && ./gradlew clean && cd ..`
-
 **Metro bundler issues:**
 - Clear Metro cache: `npm start -- --reset-cache`
 
@@ -121,4 +115,4 @@ sudo gem install cocoapods
 - React 18.2.0
 - React Hooks (useState)
 
-# TaskManager_repo
+# ALAA
